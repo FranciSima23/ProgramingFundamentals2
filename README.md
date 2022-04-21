@@ -1,6 +1,8 @@
 # ProgramingFundamentals2
 Programing Fundamentals 2 mini project
 
+
+Description 👈
 This file is the Mini project file for the Programing Fundamentals 2 Course.
 
 This is a Phishing Scanner it checks if an email or message has a scam risk or not
@@ -10,3 +12,10 @@ files it gives a certain grade if the message or the mail you want to check has 
 scam risk or not.
 
 Done by Santjago Ulndreaj and Franci Sima
+
+💻 Prerequisites
+
+Java version "13.0.2"
+Netbeans Version 12.2
+
+
